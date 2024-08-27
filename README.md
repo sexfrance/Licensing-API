@@ -5,7 +5,7 @@
     The API that I use for licensing, hardware ID (HWID) management, user verification, and Sellix order integration.
     <br />
     <br />
-    <a href="https://discord.gg/bestnitro">💬 Discord</a>
+    <a href="https://discord.cyberious.xyz">💬 Discord</a>
     ·
     <a href="#-changelog">📜 ChangeLog</a>
     ·
